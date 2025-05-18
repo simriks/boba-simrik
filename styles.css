@@ -2,12 +2,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #dddd5a;
     color: #333;
 }
 
 header {
-    background-color: #0073e6;
+    background-color: #e62a00;
     color: white;
     padding: 10px;
     text-align: center;
